@@ -1,0 +1,5 @@
+boot.img-ramdisk.cpio.gz
+boot.timh
+pxa1088dkb-vendor-blobs.mk
+root/
+system/
