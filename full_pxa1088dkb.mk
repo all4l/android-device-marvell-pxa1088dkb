@@ -26,3 +26,6 @@ PRODUCT_DEVICE := pxa1088dkb
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := pxa1088dkb
 PRODUCT_MANUFACTURER := marvell
+
+ADDITIONAL_BUILD_PROPERTIES += \
+	persist.sys.display.format=2
